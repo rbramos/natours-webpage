@@ -1,0 +1,32 @@
+//Colors
+
+$color-primary: #7ed56f;
+$color-primary-light: #55c57a;
+$color-primary-dark: #28b485;
+
+$color-secondary-light: #ffb900;
+$color-secondary-dark: #ff7730;
+
+$color-tertiary-light: #2998ff;
+$color-tertiary-dark: #5643fa;
+
+$color-grey-dark: #777;
+$color-grey-dark-2: #999;
+$color-grey-dark-3: #333;
+$color-grey-light: #eee;
+$color-white: #fff;
+$color-black: #000;
+$section-bg-color: #f1f1f1;
+
+//Grid Variables
+$grid-width: 144rem;
+$gutter-y: 8rem;
+$gutter-y-sm: 6rem;
+$gutter-x: 4rem;
+
+//Font variables
+$default-font-size: 1.6rem;
+
+//Button variables
+$btn-shadow: 0 1rem 2rem rgba($color-black, .15);
+$btn-shadow-active: 0 .5rem 1rem rgba($color-black, .15);
